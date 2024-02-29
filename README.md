@@ -27,5 +27,9 @@ Here is a screenshot of the wireframe for the pages Post Page:
 <img src="./assets/Blog Post HMTL.png" alt="blog post page">
 <img src="./assets/BlogPostSite.png" alt="blog post site">
 
+## Links
+Github Repo: https://github.com/BrianHCordova/personal-blog-project
+Deployed Site: https://brianhcordova.github.io/personal-blog-project/
+
 Contact Information
 For any questions or feedback, feel free to contact Brian Cordova at BrianCordova@yahoo.com.
