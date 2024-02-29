@@ -36,3 +36,34 @@ body {
     cursor: pointer;
     border-radius: 4px;
   }
+  .blog-post1, .blog-post2, .blog-post3 {
+    margin-bottom: 20px;
+    border: solid black 3px;
+    height: 50vh;
+    padding: 10px 50px;
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+  .blog-post1:hover, .blog-post2:hover, .blog-post3:hover {
+    box-shadow: 0 0 10px 3px #d37000;
+  }
+  
+  /* Style for the title */
+  h2.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the content */
+  h3.blog-content1, h3.blog-content2, h3.blog-content3 {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the author */
+  h4.author {
+    font-style: italic;
+    color: #666;
+  }
