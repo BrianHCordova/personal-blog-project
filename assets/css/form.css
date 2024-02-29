@@ -18,8 +18,8 @@ form {
   form input[type="submit"] {
     display: block;
     margin-top: 10px;
-    height: 7vh;
-    width: 15vh;
+    height: 5vh;
+    width: 7vh;
     background-color:rgb(156, 156, 156);
     cursor: pointer;
     font-weight: bolder;
