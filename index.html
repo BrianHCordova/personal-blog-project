@@ -28,8 +28,14 @@
             <input type="text" id="title" name="title"><br>
 
             <textarea name="comment" id="comment" cols="50" rows="5"></textarea>
-            <input type="submit" value="submit">
+            <input type="submit" value="Submit">
         </form>
     </main>
+    <script>//adding an evenlistener to the submit button to redirect
+        document.querySelector('form').addEventListener('submit', function(event) {
+          event.preventDefault(); 
+          window.location.href = 'blog.html'; // Redirect location to the blog.html page
+        });
+      </script>
 </body>
 </html>
