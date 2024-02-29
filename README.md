@@ -21,10 +21,11 @@ Upon opening the blog site in your web browser, you can enter your username, blo
 ##Screenshots
 Here is a screenshot of the wireframe made to create the pages landing page:
 <img src="./assets/Blog Main HTML.png" alt="blog landing page">
+<img src="./assets/BlogMainSite.png" alt="blog landing site">
 
 Here is a screenshot of the wireframe for the pages Post Page:
 <img src="./assets/Blog Post HMTL.png" alt="blog post page">
-
+<img src="./assets/BlogPostSite.png" alt="blog post site">
 
 Contact Information
 For any questions or feedback, feel free to contact Brian Cordova at BrianCordova@yahoo.com.
